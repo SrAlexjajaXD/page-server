@@ -1,0 +1,21 @@
+.TextoXX{
+    margin-block: 90px;
+    font-size: 5rem;
+}
+.logoSmallBlack{
+    padding: 10px;
+}
+.Flex{
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagen{
+    height: 500px;
+    width: 500px;
+    object-fit: cover;
+    object-position: center;
+}
