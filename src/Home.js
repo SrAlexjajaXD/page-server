@@ -8,7 +8,7 @@ import Carrousel from './widgets/Carrousel';
 const Home = () => {
   return (
     <div>
-        <h1 className={estilos.TextoXX}>Alex Lozano García</h1>
+        <h1 className={estilos.TextoXX}>Ale Lozano García</h1>
         <div className={estilos.Flex}>
             <a href="https://github.com/SrAlexjajaXD"><BsGithub size={30} className={estilos.logoSmallBlack}/></a>
             <a href="https://open.spotify.com/user/alexloga18?si=bf16f414dd2f4514"><BsSpotify size={30} className={estilos.logoSmallBlack}/></a>
