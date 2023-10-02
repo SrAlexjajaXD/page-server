@@ -1,19 +1,19 @@
 html{
-    margin: 30px;
+    margin: 0px;
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
     text-align: center;
 }
 
-body{
+/* body{
     background-color: rgb(5, 5, 5);
     color:rgb(247, 247, 247);
     margin: 0;
-}
-
-
-/* body{
-    margin: 0;
 } */
+
+
+body{
+    margin: 0;
+}
 
 a{
     text-decoration: none;

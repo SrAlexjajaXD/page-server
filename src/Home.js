@@ -15,6 +15,7 @@ const Home = () => {
             <a href="https://pin.it/Ca1fUtI"><BsPinterest size={30} className={estilos.logoSmallBlack}/></a>
             <a href="https://www.instagram.com/gusano_astronautico/"><BsInstagram size={30} className={estilos.logoSmallBlack}/></a>            
         </div>
+        <Carrousel/>
     </div>
   )
 }
