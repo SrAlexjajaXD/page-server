@@ -20,7 +20,8 @@
     object-fit: cover;
     object-position: center;
     border-radius: 10px;
-    box-shadow: 0px 0px 20px 0.1px rgb(55, 55, 55);
+    box-shadow: 0px 0px 20px 0.1px rgb(6, 6, 6);
+    
 }
 .imagenBack{
     height:20vh;
@@ -45,3 +46,4 @@
     background-color:unset;
     border-style: none;
 }
+
